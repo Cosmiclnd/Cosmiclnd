@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cosmicland. Oh, yes, my name is Cosmicland not Cosmiclnd.
+- 👋 Hi, I’m Cosmicland
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning C++
 - 📫 How to reach me <Cosmicland@163.com>
